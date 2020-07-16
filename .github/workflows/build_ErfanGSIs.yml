@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://bigota.d.miui.com/9.9.3/miui_MI6X_9.9.3_3ad06bc283_9.0.zip
-  ROM_NAME: MIUI10
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
